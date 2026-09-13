@@ -38,4 +38,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: TruthOrDare-APK
-          path: project/todv6/app/build/outputs/apk/debug/app-debug.apk
+          path: project/todv7/app/build/outputs/apk/debug/app-debug.apk
