@@ -14,7 +14,7 @@ jobs:
       - name: Extract game project
         run: |
           mkdir project
-          unzip -q TruthOrDare_Android_v4.zip -d project
+          unzip -q TruthOrDare_Android_v5.zip -d project
 
       - name: Set up Java
         uses: actions/setup-java@v4
